@@ -1,12 +1,11 @@
-# VSCode Keyboard Commands
+# VS Code Keyboard Commands
 
-⌘T: Show all Symbols
-⌘ Shift P: Quick Open Dialog
+⌘T: Show all Symbols \
+⌘ Shift P: Quick Open Dialog 
 
-⌘ P:  Search Files By Name
-⌘ Shift T: Re-open closed terminal
-⌘ X: Delete A line
-
+⌘ P:  Search Files By Name \
+⌘ Shift T: Re-open closed terminal \
+⌘ X: Delete A line \
 ⌘K: Enter Keep preview mode editor open
 
 ## Keyboard Shortcuts
