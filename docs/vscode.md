@@ -10,7 +10,7 @@
 
 ## Keyboard Shortcuts
 
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf?WT.mc_id=code-online-jopapa 
+<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf?WT.mc_id=code-online-jopapa>
 
 ## Extensions
 
