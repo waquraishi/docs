@@ -5,8 +5,8 @@ source: `{{ page.path }}`
 ## Installation
 > Run this from your root folder `~`
 
-1. https://jekyllrb.com/docs/installation/macos/
-2. https://jekyllrb.com/docs/
+1. <https://jekyllrb.com/docs/installation/macos/>
+2. <https://jekyllrb.com/docs/>
 
 ## Building and Starting Server
 
@@ -39,22 +39,3 @@ There’s an annoying error about deprecated libraries.  Add this to the end of 
 ## Jekyll seo-tag
 Used to optimize SEO listings and search
 1. [jekyll-seo-tag/installation.md at master · jekyll/jekyll-seo-tag · GitHub](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md)
-
-## Ruby
-### Installing Ruby
-` brew install ruby`
-
-#### Updating Ruby
-`brew upgrade ruby`
-
-### Updating bundler
-`bundle update —bundler`
-
-### Installing gems
-`gem install [gem-name]`
-
-### Updating gems
-`gem update —system`
-
-
-
