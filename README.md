@@ -4,7 +4,7 @@
 2. Set up your GitHub Pages to source(`/`)
 3. Now you can view your documentation in your site
 
-## site.pages
+## Site Index
 
 <!-- prettier-ignore-start -->
 
